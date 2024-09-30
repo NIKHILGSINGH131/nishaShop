@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd27c9fc.css",
-    "main.js": "/static/js/main.ea1a6d7a.js",
-    "static/media/broccoliSmash.jpeg": "/static/media/broccoliSmash.edf6e55ffd835907adef.jpeg",
-    "static/media/chocoBrowniw.jpeg": "/static/media/chocoBrowniw.0e418f3c076bed9c6577.jpeg",
-    "static/media/eggSalad.jpeg": "/static/media/eggSalad.af0597626206b7d79039.jpeg",
-    "static/media/cookies.jpeg": "/static/media/cookies.3688926a9a52de40ee6b.jpeg",
-    "static/media/iceCream.jpeg": "/static/media/iceCream.e551a2ae9ec95bdcf3ae.jpeg",
-    "static/media/nishaIMG.jpeg": "/static/media/nishaIMG.19f5d20a8ac60c5163c7.jpeg",
-    "index.html": "/index.html",
-    "main.cd27c9fc.css.map": "/static/css/main.cd27c9fc.css.map",
-    "main.ea1a6d7a.js.map": "/static/js/main.ea1a6d7a.js.map"
+    "main.css": "/nishaShop/static/css/main.cd27c9fc.css",
+    "main.js": "/nishaShop/static/js/main.8bd77181.js",
+    "static/media/broccoliSmash.jpeg": "/nishaShop/static/media/broccoliSmash.edf6e55ffd835907adef.jpeg",
+    "static/media/chocoBrowniw.jpeg": "/nishaShop/static/media/chocoBrowniw.0e418f3c076bed9c6577.jpeg",
+    "static/media/eggSalad.jpeg": "/nishaShop/static/media/eggSalad.af0597626206b7d79039.jpeg",
+    "static/media/cookies.jpeg": "/nishaShop/static/media/cookies.3688926a9a52de40ee6b.jpeg",
+    "static/media/iceCream.jpeg": "/nishaShop/static/media/iceCream.e551a2ae9ec95bdcf3ae.jpeg",
+    "static/media/nishaIMG.jpeg": "/nishaShop/static/media/nishaIMG.19f5d20a8ac60c5163c7.jpeg",
+    "index.html": "/nishaShop/index.html",
+    "main.cd27c9fc.css.map": "/nishaShop/static/css/main.cd27c9fc.css.map",
+    "main.8bd77181.js.map": "/nishaShop/static/js/main.8bd77181.js.map"
   },
   "entrypoints": [
     "static/css/main.cd27c9fc.css",
-    "static/js/main.ea1a6d7a.js"
+    "static/js/main.8bd77181.js"
   ]
 }
